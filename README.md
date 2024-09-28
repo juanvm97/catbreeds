@@ -1,6 +1,14 @@
-# catbreeds
+# Catbreeds
 
-Catbreeds
+Application made in flutter that uses the catapi api
+
+## Usage
+
+Create a `.env` file in the root:
+
+```sh
+API_KEY="live_99Qe4Ppj34NdplyLW67xCV7Ds0oSLKGgcWWYnSzMJY9C0QOu0HUR4azYxWkyW2nr"
+```
 
 ## Getting Started
 
